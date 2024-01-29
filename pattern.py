@@ -1,2 +1,2 @@
-for i in range(1, 6):
-    print(*([i] * i), sep=' ')
+# create the number of rows
+# create a list containing repeated values
